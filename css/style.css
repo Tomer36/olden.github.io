@@ -221,18 +221,19 @@ section{
    min-height: 34px;
    display: flex;
    align-items: center;
-   padding: 0 10px;
+   padding: 0 5px;
 }
 .header .nav-toggler{
     height: 34px;
-    width: 70px;
-    margin-right: 15px;
+    width: 44px;
+    margin-left: 15px;
     cursor: pointer;
     border:none;
     background-color: transparent;
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 .header .nav-toggler.active{
     position: absolute;
