@@ -450,10 +450,14 @@ section{
 .menu-item{
     width: 50%;
     padding:20px 15px;
-    display: flex;
+    display: table-row;
     align-items: center;
     justify-content: space-between;
     position: relative;
+}
+.item-discreption{
+    text-align: right;
+    padding-top: 10px;
 }
 .menu-item::after{
     content: '';
@@ -485,6 +489,8 @@ section{
     margin-left: 15px;
 }
 .menu-item-price{
+    text-align: center;
+    padding-top: 10px;
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
@@ -701,5 +707,4 @@ section{
         width: 100%;
     }
 }
-
 
