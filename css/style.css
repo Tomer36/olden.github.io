@@ -498,6 +498,14 @@ section{
     color: var(--main-color);
     transition: color 0.3s ease;
 }
+.menu-item-size{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 17px;
+    font-weight: 500;
+    color: var(--main-color);
+    transition: color 0.3s ease;
+}
 .menu-item:hover .menu-item-price{
     color: var(--white);
 }
@@ -702,6 +710,10 @@ section{
     }
     .testi-item{
         width: calc(100% - 30px);
+    }
+    p{
+        font-size: 17px;
+
     }
 }
 @media(max-width:575px){
