@@ -669,6 +669,10 @@ section{
     font-size: 14px;
     border-top: 1px solid var(--white-light);
 }
+p{
+    font-size: 18px;
+
+}
 
 
 /* responsive */
@@ -711,10 +715,7 @@ section{
     .testi-item{
         width: calc(100% - 30px);
     }
-    p{
-        font-size: 17px;
-
-    }
+    
 }
 @media(max-width:575px){
     .team-item{
