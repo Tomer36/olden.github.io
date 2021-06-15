@@ -440,6 +440,7 @@ section{
     transition: color 0.3s ease;
     display: inline-block;
 }
+
 .menu-tab-item.active{
     color: var(--main-color)
 }
@@ -478,16 +479,21 @@ section{
     align-items: center;
     max-width: calc(100% - px);
 }
-.menu-item-title h3{
-    font-size: 16px;
+.menu-item-title h2{
+    font-size: 1.5em;
+    font-weight: bold;
     text-transform: capitalize;
     transition: color 0.3s ease;
 }
+.imageContainer > img:hover {
+    width: 170px;
+    height: 170px;
+  }
 .menu-item:hover .menu-item-title h3{
     color:var(--main-color);
 }
 .menu-item-title img{
-    max-width: 100px;
+    
     margin-left: 15px;
 }
 .menu-item-price{
