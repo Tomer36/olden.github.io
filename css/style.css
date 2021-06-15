@@ -10,8 +10,8 @@ fonts
  ------------*/
 :root{
     --main-color: #eaa023;
-    --dark: #000000;
-    --dark-light: #000000;
+    --dark: #0f0e0e;
+    --dark-light: #080808;
     --white: #ffffff;
     --white-light: #c8c8c8;
     --shadow: 0 0 15px rgba(0,0,0,0.25);
