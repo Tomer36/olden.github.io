@@ -428,7 +428,7 @@ section{
     margin-bottom: 30px;
 }
 .menu-tab-item{
-    font-size: 18px;
+    font-size: 20px;
     font-family: inherit;
     text-transform: capitalize;
     border:none;
@@ -673,7 +673,6 @@ p{
     font-size: 18px;
 
 }
-
 
 /* responsive */
 @media(max-width:991px){
