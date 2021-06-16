@@ -501,7 +501,8 @@ section{
 .menu-item-price{
     text-align: center;
     padding-top: 10px;
-    padding-left: 15px;
+    padding-left: 10px;
+    padding-right: 8px;
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
@@ -510,7 +511,7 @@ section{
 .menu-item-size{
     text-align: center;
     padding-top: 10px;
-    font-size: 17px;
+    font-size: 19px;
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
