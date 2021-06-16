@@ -513,7 +513,7 @@ section{
 .menu-item-size{
     text-align: center;
     padding-top: 10px;
-    font-size: 19px;
+    font-size: 20px;
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
