@@ -40,6 +40,12 @@ body{
     font-weight: 300;
     color: var(--white-light);
 }
+hr.solid {
+    border-top: 1px solid rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
 img{
     vertical-align: middle;
     max-width: 100%;
@@ -495,6 +501,7 @@ section{
 .menu-item-price{
     text-align: center;
     padding-top: 10px;
+    padding-left: 15px;
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
