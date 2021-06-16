@@ -465,6 +465,8 @@ section{
     position: relative;
 }
 .item-discreption{
+    font-size: 20px;
+    font-weight: 500;
     text-align: right;
     padding-top: 10px;
 }
@@ -678,10 +680,6 @@ section{
     padding:25px 15px;
     font-size: 14px;
     border-top: 1px solid var(--white-light);
-}
-p{
-    font-size: 20px;
-
 }
 
 /* responsive */
