@@ -464,9 +464,9 @@ section{
     justify-content: space-between;
     position: relative;
 }
-.item-discreption{
-    font-size: 20px;
-    font-weight: 500;
+.item-discreption p{
+    font-size: 18px;
+    font-weight: 450;
     text-align: right;
     padding-top: 10px;
 }
