@@ -352,8 +352,8 @@ section{
     text-align: center;
 }
 .home-text h1{
-    font-family: var(--cursive-font);
-    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
     line-height: 75px;
     margin:0 0 5px;
 }
