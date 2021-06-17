@@ -353,7 +353,7 @@ section{
 }
 .home-text h1{
     font-family: var(--cursive-font);
-    font-size: 60px;
+    font-size: 45px;
     line-height: 75px;
     margin:0 0 5px;
 }
