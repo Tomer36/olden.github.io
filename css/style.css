@@ -456,6 +456,7 @@ section{
     table-layout: fixed;
     border-collapse: collapse;
     background-color: rgb(0, 0, 0);
+    justify-content:space-between;
     
 }
 
