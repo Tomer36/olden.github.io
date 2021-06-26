@@ -213,6 +213,7 @@ section{
     top:0;
     z-index: 99;
     width: 100%;
+    direction: ltr;
 }
 .header::before{
     content: '';
@@ -235,11 +236,12 @@ section{
    display: flex;
    align-items: center;
    padding: 0 5px;
+   margin-left: 15px;
 }
 .header .nav-toggler{
     height: 34px;
     width: 44px;
-    margin-left: 15px;
+    margin-right: 15px;
     cursor: pointer;
     border:none;
     background-color: transparent;
@@ -247,7 +249,6 @@ section{
     align-items: center;
     justify-content: center;
     padding-left: 15px;
-
 }
 .header .nav-toggler.active{
     position: absolute;
