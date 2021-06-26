@@ -424,7 +424,6 @@ section{
     text-transform: capitalize;
 }
 
-
 /* -----------------
  menu section 
  -----------------*/
@@ -457,9 +456,11 @@ section{
     border-collapse: collapse;
     background-color: rgb(0, 0, 0);
     
+    
 }
 td{
     padding-inline: 5px;
+    
 
 }
 
