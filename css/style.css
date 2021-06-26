@@ -450,7 +450,7 @@ section{
     font-weight: 500;
     color: var(--white);
     cursor: pointer;
-    margin:0 0px 10px;
+    margin:0 10px 10px;
     transition: color 0.3s ease;
     width: 100%;
     table-layout: fixed;
