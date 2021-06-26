@@ -452,7 +452,7 @@ section{
     cursor: pointer;
     margin:0 10px 10px;
     transition: color 0.3s ease;
-    display:table-column;
+    display: inline-block;
 }
 
 .menu-tab-item.active{
