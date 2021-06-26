@@ -445,7 +445,7 @@ section{
     font-family: inherit;
     text-transform: capitalize;
     border-radius:10px;
-    padding: 5px 5px 5px 5px;
+    padding: 7px 7px 7px 7px;
     background-color: transparent;
     font-weight: 500;
     color: var(--white);
