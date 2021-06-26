@@ -49,8 +49,8 @@ hr.solid {
   }
   hr.solid2 {
     border-top: 3px solid rgb(255, 255, 255);
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 110px;
+    margin-right: 110px;
     margin-top: 10px;
     border-radius: 5px;
   }
@@ -151,7 +151,6 @@ section{
     color: var(--white);
     background-color: var(--main-color);
 }
-
 /* animation keyframes */
 @keyframes zoomInOut{
     0%,100%{
@@ -438,15 +437,15 @@ section{
 }
 .menu-tabs{
     padding:0 15px;
-    width: 100%;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .menu-tab-item{
     font-size: 22px;
     font-family: inherit;
     text-transform: capitalize;
-    border:none;
+    border-radius:10px;
+    padding: 5px 5px 5px 5px;
     background-color: transparent;
     font-weight: 500;
     color: var(--white);
