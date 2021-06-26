@@ -455,13 +455,12 @@ section{
     table-layout: fixed;
     border-collapse: collapse;
     background-color: rgb(0, 0, 0);
-    
-    
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+
 }
 td{
     padding-inline: 5px;
-    
-
 }
 
 .menu-tab-item.active{
