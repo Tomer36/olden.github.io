@@ -127,6 +127,7 @@ section{
     text-transform: capitalize;
 }
 
+
 /* buttons */
 .btn{
     display: inline-block;
@@ -150,6 +151,29 @@ section{
 .btn-default:hover{
     color: var(--white);
     background-color: var(--main-color);
+}
+
+.btn-disabled{
+    display: inline-block;
+    padding:10px 30px;
+    background-color:transparent;
+    border-radius: 30px;
+    text-transform: capitalize;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: inherit;
+    color:gray;
+    line-height: 1.5;
+    user-select: none;
+    border: 2px solid gray;
+    opacity: 0.6;
+    pointer-events: none;
+}
+.soon{
+padding-right: 135px;
+opacity: 0.8;
 }
 /* animation keyframes */
 @keyframes zoomInOut{
