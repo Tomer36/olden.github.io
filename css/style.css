@@ -510,6 +510,7 @@ td{
     border:none;
 }
 .menu-item-title{
+    padding-bottom: 10px;;
     display: flex;
     align-items: center;
     max-width: calc(100% - px);
