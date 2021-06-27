@@ -489,7 +489,7 @@ td{
     padding-top: 10px;
 }
 .disc{
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 450;
     text-align: right;
     padding-top: 10px;
@@ -545,7 +545,9 @@ td{
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
-    display:grid;
+    display: flex;
+    direction: ltr;
+    
 
 }
 .menu-item-size{
