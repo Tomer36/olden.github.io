@@ -494,6 +494,7 @@ td{
     text-align: right;
     padding-top: 10px;
     display: list-item;
+    margin-right: 10px;
 
     }
 .menu-item::after{
@@ -538,12 +539,13 @@ td{
 }
 .menu-item-price-multi{
     text-align: center;
-    padding-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
-    display: list-item;
+    display:grid;
 
 }
 .menu-item-size{
