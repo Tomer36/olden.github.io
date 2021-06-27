@@ -489,7 +489,7 @@ td{
     padding-top: 10px;
 }
 .disc{
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 450;
     text-align: right;
     padding-top: 10px;
@@ -539,8 +539,8 @@ td{
 }
 .menu-item-price-multi{
     text-align: center;
-    padding-top: 5px;
-    padding-bottom: 10px;
+    padding-top: 2px;
+    padding-bottom: 15px;
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
