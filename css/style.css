@@ -264,6 +264,7 @@ section{
     background-color: var(--white);
     position: relative;
 }
+
 .header .nav-toggler.active span{
     background-color: transparent;
     transition: background-color 0.5s ease;
@@ -527,6 +528,16 @@ td{
     color: var(--main-color);
     transition: color 0.3s ease;
 }
+.menu-item-price-multi{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--main-color);
+    transition: color 0.3s ease;
+
+}
 .menu-item-size{
     text-align: center;
     padding-top: 10px;
@@ -756,6 +767,8 @@ td{
     font-size: 14px;
     border-top: 1px solid var(--white-light);
 }
+
+
 
 /* responsive */
 @media(max-width:991px){
