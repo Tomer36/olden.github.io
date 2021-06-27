@@ -546,10 +546,7 @@ td{
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
-    display: flex;
-    direction: ltr;
-    
-
+    display: grid;
 }
 .menu-item-size{
     text-align: center;
