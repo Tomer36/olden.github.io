@@ -488,6 +488,14 @@ td{
     text-align: right;
     padding-top: 10px;
 }
+.disc{
+    font-size: 18px;
+    font-weight: 450;
+    text-align: right;
+    padding-top: 10px;
+    display: list-item;
+
+    }
 .menu-item::after{
     content: '';
     position: absolute;
