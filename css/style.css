@@ -89,7 +89,6 @@ p{
 .row{
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: -25px;
 }
 .justify-content-between{
     justify-content: space-between;
