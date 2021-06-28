@@ -48,9 +48,9 @@ hr.solid {
     border-radius: 5px;
   }
   hr.solid2 {
-    border-top: 3px solid rgb(255, 255, 255);
-    margin-left: 110px;
-    margin-right: 110px;
+    border-top: 1px solid var(--main-color);
+    margin-left: 90px;
+    margin-right: 90px;
     margin-top: 5px;
     margin-bottom: -20px;
     border-radius: 5px;
@@ -115,7 +115,7 @@ section{
     margin-bottom: 60px;
 }
 .section-title h2{
-    font-size: 35px;
+    font-size: 30px;
     text-transform: capitalize;
 }
 .section-title h2::before{
