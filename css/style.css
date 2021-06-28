@@ -823,6 +823,7 @@ td{
     border-radius: 10px; /* Rounded corners */
     font-size: 30px; /* Increase font size */
     font-weight: bold;
+    scroll-behavior: smooth;
   }
 
 /* responsive */
