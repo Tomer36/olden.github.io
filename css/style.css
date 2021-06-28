@@ -492,7 +492,7 @@ td{
 
 .menu-tab-item.active{
     background-color: var(--main-color);
-    border-color:var(--main-color);
+    border-color:var(--white);
     color: var(--white)
 }
 .menu-tab-content{
