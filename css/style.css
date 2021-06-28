@@ -549,9 +549,6 @@ td{
     text-transform: capitalize;
     transition: color 0.3s ease;
 }
-.menu-item:hover .menu-item-title h2{
-    color:var(--main-color);
-}
 .menu-item-title img{
     
     margin-left: 15px;
@@ -573,7 +570,6 @@ td{
     font-size: 16px;
     font-weight: 500;
     color: var(--main-color);
-    transition: color 0.3s ease;
     display: grid;
 }
 .menu-item-size{
@@ -582,12 +578,7 @@ td{
     font-size: 20px;
     font-weight: 500;
     color: var(--main-color);
-    transition: color 0.3s ease;
 }
-.menu-item:hover .menu-item-price{
-    color: var(--white);
-}
-
 /* ---------------------
  testimonials section 
  ----------------------*/
