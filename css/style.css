@@ -543,7 +543,7 @@ td{
     max-width: calc(100% - px);
 }
 .menu-item-title h2{
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-weight: bold;
     text-transform: capitalize;
     transition: color 0.3s ease;
