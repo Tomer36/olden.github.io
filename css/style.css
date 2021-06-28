@@ -815,9 +815,9 @@ td{
     cursor: pointer; /* Add a mouse pointer on hover */
     padding-left: 15px; /* Some padding */
     padding-right: 15px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bo: 15px;
-    
+
     border-radius: 10px; /* Rounded corners */
     font-size: 25px; /* Increase font size */
   }
