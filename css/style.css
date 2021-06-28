@@ -45,7 +45,6 @@ hr.solid {
     margin-left: 120px;
     margin-right: 120px;
     margin-bottom: 20px;
-    border-radius: 5px;
   }
   hr.solid2 {
     border: 1px solid var(--main-color);
@@ -90,6 +89,7 @@ p{
 .row{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: -25px;
 }
 .justify-content-between{
     justify-content: space-between;
