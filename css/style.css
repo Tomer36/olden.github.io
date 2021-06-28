@@ -44,7 +44,8 @@ hr.solid {
     border: 1px solid var(--white);
     margin-left: 120px;
     margin-right: 120px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
   }
   hr.solid2 {
     border: 1px solid var(--main-color);
