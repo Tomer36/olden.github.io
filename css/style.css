@@ -817,8 +817,8 @@ td{
     background-color:var(--main-color); /* Set a background color */
     color: white; /* Text color */
     cursor: pointer; /* Add a mouse pointer on hover */
-    padding-left: 15px; /* Some padding */
-    padding-right: 15px;
+    padding-left: 18px; /* Some padding */
+    padding-right: 18px;
     padding-top: 10px;
     border-radius: 10px; /* Rounded corners */
     font-size: 30px; /* Increase font size */
