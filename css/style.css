@@ -503,9 +503,7 @@ td{
     display: flex;
 }
 .menu-item{
-    border-style: solid;
-    border-width: thin;
-    border-color:var(--white);
+    border-top: thin solid var(--white);
     width: 50%;
     padding:20px 15px;
     display: table-row;
