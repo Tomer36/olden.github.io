@@ -565,6 +565,7 @@ td{
     font-weight: 500;
     color: var(--main-color);
     transition: color 0.3s ease;
+    text-decoration: underline;
 }
 .menu-item-price-multi{
     text-align: center;
@@ -574,6 +575,7 @@ td{
     font-weight: 500;
     color: var(--main-color);
     display: grid;
+    text-decoration: underline;
 }
 .menu-item-size{
     text-align: center;
