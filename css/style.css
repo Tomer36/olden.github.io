@@ -93,9 +93,9 @@ p {
 }
 
 a:link {
-    color: rgb(255, 255, 255);
+    color: #c8c8c8;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
 
 .container {
