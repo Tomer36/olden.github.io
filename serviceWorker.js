@@ -1,8 +1,5 @@
 const CACHE_NAME = "version-1";
 const urlsToCache = [
-    'index.html',
-    '/js/script.js',
-    'arabic.html',
     'offline.html'
 ];
 
