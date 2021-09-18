@@ -1,7 +1,9 @@
 const CACHE_NAME = "version-1";
 const urlsToCache = [
     'index.html',
-    '/js/script.js'
+    '/js/script.js',
+    'arabic.index',
+    'offline.html'
 ];
 
 // Install the service worker and open the cache and add files mentioned in array to cache
