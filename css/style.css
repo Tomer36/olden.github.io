@@ -96,7 +96,7 @@ a:link {
     color: #c8c8c8;
     background-color: transparent;
     text-decoration: under;
-  }
+}
 
 .container {
     max-width: 1170px;
@@ -543,20 +543,21 @@ section {
     border-radius: 10px;
     padding: 5px 5px 5px 5px;
     background-color: transparent;
-    font-weight: 500;
+    font-weight: lighter;
     color: var(--white);
     cursor: pointer;
     margin: 0 0px 10px;
     transition: color 0.3s ease;
-    width:95%;
+    width: 95%;
     table-layout: fixed;
     border-collapse: collapse;
     background-color: rgb(0, 0, 0);
     border-style: solid;
     border-color: rgb(255, 255, 255);
 }
+
 td {
-    padding-inline: 5px; 
+    padding-inline: 5px;
 }
 
 .menu-tab-item.active {
