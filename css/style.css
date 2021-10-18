@@ -5,6 +5,7 @@ fonts
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miriam+Libre&display=swap');
 /* --------------
  variables 
  ------------*/
@@ -542,7 +543,23 @@ section {
 }
 
 .menu-tab-item {
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Miriam Libre', sans-serif;
+    border-radius: 10px;
+    padding: 15px 5px 15px 5px;
+    color: var(--white);
+    cursor: pointer;
+    margin: 0 0px 10px;
+    width: 100%;
+    transition: color 0.3s ease;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    
+}
+.ar {
+    font-size: 18px;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
     border-radius: 10px;
@@ -557,6 +574,8 @@ section {
     border-color: rgb(255, 255, 255);
     
 }
+
+
 td {
     padding-inline: 5px; 
     
