@@ -585,6 +585,12 @@ td {
     color: var(--white)
 }
 
+.menu-tab-item-arabic.active {
+    background-color: var(--main-color);
+    border-color: var(--main-color);
+    color: var(--white)
+}
+
 .menu-tab-content {
     display: none;
 }
