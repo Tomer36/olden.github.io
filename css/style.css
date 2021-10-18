@@ -162,8 +162,9 @@ section {
     text-transform: capitalize;
     font-weight: 500;
     transition: all 0.3s ease;
-    font-size: 22px;
+    font-size: 20px;
     cursor: pointer;
+    font-family: inherit;
     color: var(--main-color);
     line-height: 1.5;
     user-select: none;
