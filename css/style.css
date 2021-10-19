@@ -619,7 +619,7 @@ td {
 }
 
 .menu-item {
-    border-top: thin solid var(--white);
+    border-top: thin dashed  var(--white);
     width: 50%;
     padding: 20px 15px;
     display: table-row;
