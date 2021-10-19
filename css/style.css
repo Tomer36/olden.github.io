@@ -189,7 +189,7 @@ section {
 }
 
 .btn-default {
-    border: 3px solid var(--main-color);
+    border: 2.5px solid var(--main-color);
 }
 
 .btn-default:hover {
