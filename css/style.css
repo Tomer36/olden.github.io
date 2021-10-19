@@ -660,6 +660,13 @@ td {
 }
 
 .menu-item-title h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: 'Miriam Libre', sans-serif;
+    text-transform: capitalize;
+    transition: color 0.3s ease;
+}
+.menu-item-title-ar h2 {
     font-size: 1.2em;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
