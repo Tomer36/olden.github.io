@@ -1007,6 +1007,7 @@ p {
     /* Some padding */
     padding-right: 18px;
     padding-top: 10px;
+    padding-bottom: 5px;
     border-radius: 10px;
     /* Rounded corners */
     font-size: 30px;
