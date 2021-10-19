@@ -160,7 +160,7 @@ section {
     display: inline-block;
     padding: 10px 30px;
     background-color: transparent;
-    border-radius: 30px;
+    border-radius: 15px;
     font-weight: bold;
     transition: all 0.3s ease;
     font-size: 21px;
@@ -176,7 +176,7 @@ section {
     display: inline-block;
     padding: 10px 30px;
     background-color: transparent;
-    border-radius: 30px;
+    border-radius: 15px;
     font-weight: bold;
     transition: all 0.3s ease;
     font-size: 20px;
@@ -189,7 +189,7 @@ section {
 }
 
 .btn-default {
-    border: 2px solid var(--main-color);
+    border: 3px solid var(--main-color);
 }
 
 .btn-default:hover {
