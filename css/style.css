@@ -636,7 +636,7 @@ td {
     padding-top: 10px;
 }
 
-.disc  {
+.disc{
     font-size: 18px;
     font-weight: 450;
     text-align: right;
@@ -644,6 +644,16 @@ td {
     display: list-item;
     margin-right: 10px;
     font-family: 'Almarai', sans-serif;
+}
+
+.disc_ar{
+    font-size: 18px;
+    font-weight: 450;
+    text-align: right;
+    padding-top: 10px;
+    display: list-item;
+    margin-right: 10px;
+    font-family: 'Miriam Libre', sans-serif;
 }
 
 .menu-item::after {
