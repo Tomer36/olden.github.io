@@ -643,7 +643,7 @@ td {
     padding-top: 10px;
     display: list-item;
     margin-right: 10px;
-    font-family: 'Almarai', sans-serif;
+    font-family: 'Miriam Libre', sans-serif;
 }
 
 .disc_ar{
@@ -653,7 +653,8 @@ td {
     padding-top: 10px;
     display: list-item;
     margin-right: 10px;
-    font-family: 'Miriam Libre', sans-serif;
+    font-family: 'Almarai', sans-serif;
+    
 }
 
 .menu-item::after {
