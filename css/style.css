@@ -685,7 +685,7 @@ td {
     transition: color 0.3s ease;
 }
 .menu-item-title-ar h2 {
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
     text-transform: capitalize;
