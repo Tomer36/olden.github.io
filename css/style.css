@@ -563,7 +563,7 @@ section {
 }
 
 .menu-tab-item {
-    font-size: 20px;
+    font-size: 21px;
     font-weight: bold;
     font-family: 'Miriam Libre', sans-serif;
     border-radius: 10px;
@@ -580,7 +580,7 @@ section {
     
 }
 .ar {
-    font-size: 17px;
+    font-size: 18px;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
     border-radius: 10px;
@@ -1016,16 +1016,16 @@ p {
     /* Text color */
     cursor: pointer;
     /* Add a mouse pointer on hover */
-    padding-left: 18px;
+    padding-left: 16px;
     /* Some padding */
-    padding-right: 18px;
-    padding-top: 10px;
+    padding-right: 16px;
+    padding-top: 8px;
     padding-bottom: 5px;
     border-radius: 10px;
     /* Rounded corners */
-    font-size: 30px;
+    font-size: 25px;
     /* Increase font size */
-    font-weight: bold;
+    font-weight: bolder;
     scroll-behavior: smooth;
 }
 
