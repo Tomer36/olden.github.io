@@ -908,6 +908,9 @@ p {
 .footer-item .social-links a:hover {
     color: var(--main-color);
 }
+.copyright{
+    font-weight: 500;
+}
 
 .footer .copyright {
     margin: 80px 0 0;
