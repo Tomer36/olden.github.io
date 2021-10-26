@@ -563,12 +563,12 @@ section {
 }
 
 .menu-tab-item {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     font-family: 'Miriam Libre', sans-serif;
     border-radius: 10px;
     border:2px;
-    padding: 13px 5px 13px 5px;
+    padding: 12px 5px 12px 5px;
     color: var(--white);
     cursor: pointer;
     margin: 0 0px 10px;
@@ -580,12 +580,12 @@ section {
     
 }
 .ar {
-    font-size: 19px;
+    font-size: 17px;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
     border-radius: 10px;
     border:2px;
-    padding: 9px 5px 9px 5px;
+    padding: 8px 5px 8px 5px;
     color: var(--white);
     cursor: pointer;
     margin: 0 0px 10px;
