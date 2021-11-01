@@ -728,6 +728,12 @@ td {
 .tablePrice{
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    padding-top: 2px;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--main-color);
+    font-family: 'Almarai', sans-serif;
 }
 
 p {
