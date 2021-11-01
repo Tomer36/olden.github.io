@@ -566,7 +566,7 @@ section {
     font-size: 21px;
     font-weight: bold;
     font-family: 'Miriam Libre', sans-serif;
-    border-radius: 10px;
+    border-radius: 5px;
     border:2px;
     padding: 12px 5px 12px 5px;
     color: var(--white);
@@ -583,7 +583,7 @@ section {
     font-size: 18px;
     font-weight: bold;
     font-family: 'Noto Kufi Arabic', sans-serif;
-    border-radius: 10px;
+    border-radius: 5px;
     border:2px;
     padding: 8px 5px 8px 5px;
     color: var(--white);
