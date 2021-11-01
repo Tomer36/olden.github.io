@@ -710,7 +710,6 @@ td {
 .menu-item-price-multi {
     text-align: center;
     padding-top: 2px;
-    padding-bottom: 18px;
     font-size: 17px;
     font-weight: 500;
     color: var(--main-color);
@@ -724,6 +723,11 @@ td {
     font-weight: 700;
     color: var(--main-color);
     font-family: 'Almarai', sans-serif;
+}
+
+.tablePrice{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
