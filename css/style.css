@@ -155,6 +155,20 @@ section {
     text-transform: capitalize;
 }
 
+.arabic_title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+
+}
+
+.hebrew_title{
+    font-size: 33px;
+    font-weight: bold;
+    font-family: 'Miriam Libre', sans-serif;
+    
+}
+
 /* buttons */
 
 .btn {
@@ -744,7 +758,7 @@ td {
     font-size: 18px;
     font-weight: 700;
     color: var(--main-color);
-    font-family: 'Almarai', sans-serif;
+    font-family: 'Miriam Libre', sans-serif;
 }
 
 p {
